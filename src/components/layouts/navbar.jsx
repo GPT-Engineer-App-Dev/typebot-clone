@@ -24,25 +24,25 @@ function SharedLayout() {
             <span className="sr-only">Typebot Clone</span>
           </a>
           <a
-            href="#"
+            href="/"
             className="text-muted-foreground transition-colors hover:text-foreground"
           >
             Home
           </a>
           <a
-            href="#"
+            href="/features"
             className="text-muted-foreground transition-colors hover:text-foreground"
           >
             Features
           </a>
           <a
-            href="#"
+            href="/pricing"
             className="text-muted-foreground transition-colors hover:text-foreground"
           >
             Pricing
           </a>
           <a
-            href="#"
+            href="/contact"
             className="text-muted-foreground transition-colors hover:text-foreground"
           >
             Contact
@@ -69,25 +69,25 @@ function SharedLayout() {
                 <span className="sr-only">Typebot Clone</span>
               </a>
               <a
-                href="#"
+                href="/"
                 className="text-muted-foreground hover:text-foreground"
               >
                 Home
               </a>
               <a
-                href="#"
+                href="/features"
                 className="text-muted-foreground hover:text-foreground"
               >
                 Features
               </a>
               <a
-                href="#"
+                href="/pricing"
                 className="text-muted-foreground hover:text-foreground"
               >
                 Pricing
               </a>
               <a
-                href="#"
+                href="/contact"
                 className="text-muted-foreground hover:text-foreground"
               >
                 Contact
